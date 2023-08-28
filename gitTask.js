@@ -1,4 +1,4 @@
-const userfirstName = prompt("What is your name?")
+const userFirstName = prompt("What is your name?")
 const addUserName = () => {
     console.log(`Hi ${userFirstName}`)
 }
